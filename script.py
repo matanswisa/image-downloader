@@ -1,14 +1,3 @@
-"""
-  author:matan swisa
-  about: a script which download images from internet , 
-        you have to copy a specific url for use this.
-  date:08/04/2020
-  IMPORTANT: it's only for the porpuse of learning , and i used some resources from youtube , stackoverflow
-  
-"""
-
-
-
 import tkinter as tk
 from tkinter import filedialog , Text
 import os 
